@@ -26,7 +26,7 @@ pnpm start
 
 
 
-### To ensure that the Tailwind CSS default styles are not added to the <head> tag of your HTML document:
+### To ensure that the Tailwind CSS default styles are not added to the head tag of your HTML document:
 
 
 
