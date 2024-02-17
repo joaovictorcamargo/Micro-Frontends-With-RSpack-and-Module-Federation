@@ -5,7 +5,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/joaovictorcamargo/discord-clone.git
+git clone https://github.com/joaovictorcamargo/Micro-Frontends-With-RSpack-and-Module-Federation.git
 ```
 
 ### Install packages
