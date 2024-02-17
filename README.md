@@ -1,7 +1,18 @@
 # Micro-Frontends With RSpack and Module Federation
 
-1 - pnpm i
 
+
+### Cloning the repository
+
+```shell
+git clone https://github.com/joaovictorcamargo/discord-clone.git
+```
+
+### Install packages
+
+```shell
+pnpm i
+```
 
 2 - pnpm start
 
