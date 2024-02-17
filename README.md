@@ -14,8 +14,11 @@ git clone https://github.com/joaovictorcamargo/Micro-Frontends-With-RSpack-and-M
 pnpm i
 ```
 
-2 - pnpm start
+### Start the app
 
+```shell
+pnpm start
+```
 
 
 <img width="1107" alt="Screen Shot 2024-02-17 at 10 02 06" src="https://github.com/joaovictorcamargo/Micro-Frontends-With-RSpack-and-Module-Federation/assets/80647040/92aed961-7e49-43bb-a2f8-5dc7480e1c70">
