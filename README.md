@@ -36,6 +36,14 @@ pnpm start
 
 
 
+### To ensure that no CSS is being added to JavaScript:
+
+
+
+<img width="1438" alt="Screen Shot 2024-02-17 at 10 20 53" src="https://github.com/joaovictorcamargo/Micro-Frontends-With-RSpack-and-Module-Federation/assets/80647040/37143185-75c3-44d6-a862-b839391fa7ff">
+
+
+
 
 ### remote - 
 
